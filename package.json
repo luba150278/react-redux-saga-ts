@@ -1,6 +1,6 @@
 {
-  "homepage": "http://luba150278.github.io/react-ts-course",
-  "name": "level-2-trello",
+  "homepage": "http://luba150278.github.io/react-redux-ts",
+  "name": "react-redux-ts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
